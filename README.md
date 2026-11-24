@@ -1,3 +1,7 @@
+<img width="1145" height="868" alt="image" src="https://github.com/user-attachments/assets/ae8a6688-f4b5-4c8e-9ebf-8a6ee3d79a9b" />
+
+
+
 # ATK Control
 
 A native Qt 6 application for configuring ATK, VXE and Compx gaming mice on Linux.
