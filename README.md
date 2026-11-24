@@ -230,6 +230,9 @@ repository for the original notes.
   [Linux-ATK](https://github.com/VoideUI/Linux-ATK) for additional device and battery details.
 - The Qt project for the application framework.
 
+FULLY VIBECODED BTW SO IDK HOW IT WORKS
+
+
 ## License
 
 GPL-3.0-only. See [LICENSE](LICENSE).
