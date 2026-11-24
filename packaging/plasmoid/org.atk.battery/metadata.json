@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "ATK Control contributors"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Battery status for ATK and VXE gaming mice",
+        "Icon": "battery",
+        "Id": "org.atk.battery",
+        "License": "GPL-3.0-only",
+        "Name": "ATK Mouse Battery",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

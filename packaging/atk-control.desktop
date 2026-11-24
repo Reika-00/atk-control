@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=ATK Control
+Comment=Configure ATK and VXE gaming mice
+Exec=atk-control
+Icon=atk-control
+Terminal=false
+Categories=Settings;HardwareSettings;
+Keywords=mouse;gaming;atk;vxe;dpi;battery;hidraw;
+StartupNotify=true

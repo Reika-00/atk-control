@@ -1,0 +1,5 @@
+# ATK / VXE gaming mice
+# Allow the active local session to access raw HID reports without root.
+SUBSYSTEM=="hidraw", ATTRS{idVendor}=="373b", TAG+="uaccess", MODE="0660"
+SUBSYSTEM=="hidraw", ATTRS{idVendor}=="3554", TAG+="uaccess", MODE="0660"
+SUBSYSTEM=="hidraw", ATTRS{idVendor}=="25a7", TAG+="uaccess", MODE="0660"

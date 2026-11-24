@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="udev/71-atk-control.rules">packaging/71-atk-control.rules</file>
+    </qresource>
+</RCC>

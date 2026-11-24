@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.atk.Control</id>
+  <name>ATK Control</name>
+  <summary>Configure ATK and VXE gaming mice</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+  <developer id="org.atk.control">
+    <name>ATK Control contributors</name>
+  </developer>
+  <description>
+    <p>
+      ATK Control is a native Qt 6 application for configuring ATK, VXE and Compx gaming
+      mice on Linux. It talks to the mouse directly over raw HID.
+    </p>
+    <p>Features include:</p>
+    <ul>
+      <li>Battery percentage, charging state and voltage</li>
+      <li>DPI stages, active stage and per-stage colors</li>
+      <li>Polling rate, lift-off distance, debounce and sleep</li>
+      <li>Button remapping, lighting and on-board profiles</li>
+      <li>Protocol v1 and v2 support with read-back verification</li>
+    </ul>
+  </description>
+  <launchable type="desktop-id">atk-control.desktop</launchable>
+  <categories>
+    <category>Settings</category>
+  </categories>
+  <releases>
+    <release version="1.0.0" date="2026-11-23"/>
+  </releases>
+  <content_rating type="oars-1.1"/>
+</component>
